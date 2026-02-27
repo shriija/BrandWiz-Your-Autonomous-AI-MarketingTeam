@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="./assets/Screenshot 2026-02-19 124236.png"/>
-</div>
 
 # 🧠 BrandWiz: Multi-Agent AI Orchestration Studio
 BrandWiz is a sophisticated creative intelligence platform that implements a multi-agent orchestration pattern to simulate a professional brand agency workflow. Built with React 19 and TypeScript, it leverages the Google Gemini API to coordinate specialized AI personas through a synchronized data pipeline.
@@ -13,10 +10,6 @@ State Management: Utilizes a centralized SharedContext pattern to maintain data 
 Type Safety: Implements strict TypeScript interfaces and Enums (AgentStatus, Urgency, Trend) to ensure predictable data flow between LLM-driven components.
 
 Modular Design: Features a decoupled view architecture, allowing for independent scaling of agent capabilities and specialized UI/UX interactions.
-
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="./assets/Screenshot 2026-02-19 125756.png"/>
-</div>
 
 # 🛠️ Tech Stack
 Frontend: React 19, Tailwind CSS (Custom Dark Design System)
